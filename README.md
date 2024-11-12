@@ -46,6 +46,14 @@ This is the dataset after data cleaning
 ![Screenshot_20](https://github.com/user-attachments/assets/d4a5ad4d-8190-45d0-a210-32094609e7a6)
 ![Screenshot_19](https://github.com/user-attachments/assets/7ffcfc2b-38eb-4110-a9db-bf7add156cfa)
 
+# Glossary
+![Screenshot_21](https://github.com/user-attachments/assets/c7622752-336c-4f08-aac1-ec94ec6bea29)
+![Screenshot_22](https://github.com/user-attachments/assets/600ef177-bdf2-4aa9-9b96-2645f796c729)
+
+
+
+
+
 
 
 
