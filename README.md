@@ -1,4 +1,4 @@
-# README
+![Screenshot_24](https://github.com/user-attachments/assets/60560928-6b70-477e-972e-366dc6408b73)# README
 This Capstone Project was conducted to analyze the dataset on TLC Trip Record which is a dataset containing 
 Trip Records from a taxi company called Taxi and Limousine Commissions (TLC) from January 1, 2023 to January 31, 2023.
 
@@ -43,8 +43,10 @@ These are the steps that I do for data cleaning:
 8. Drop unnecessary columns
    
 This is the dataset after data cleaning
-![Screenshot_20](https://github.com/user-attachments/assets/d4a5ad4d-8190-45d0-a210-32094609e7a6)
-![Screenshot_19](https://github.com/user-attachments/assets/7ffcfc2b-38eb-4110-a9db-bf7add156cfa)
+![Screenshot_23](https://github.com/user-attachments/assets/ed227f34-45ac-439c-880d-7772a0a79cd6)
+![Screenshot_24](https://github.com/user-attachments/assets/0ed82c86-69ba-412e-a658-e6a288c5c818)
+
+
 
 # Glossary
 ![Screenshot_21](https://github.com/user-attachments/assets/c7622752-336c-4f08-aac1-ec94ec6bea29)
