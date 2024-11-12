@@ -50,6 +50,55 @@ This is the dataset after data cleaning
 ![Screenshot_21](https://github.com/user-attachments/assets/c7622752-336c-4f08-aac1-ec94ec6bea29)
 ![Screenshot_22](https://github.com/user-attachments/assets/600ef177-bdf2-4aa9-9b96-2645f796c729)
 
+# Analysis
+
+Based on the problem statement that already made, below are the analysis for the problem:
+- Peak Demand Hours
+- Trip Duration Distribution
+- Daily Revenue Patterns
+- Passenger Count per Trip
+- Factors Influencing Total Fare Amount
+  
+And there is also optional analysis that I made and maybe can be used for the problem:
+- Top 10 Pick-Up Zones
+- Top 10 Drop-Off Zones
+- Top Payment
+
+# Results
+
+Below are the result from the analysis that already conducted:
+- High Demand of Taxi Services occured at 14.00 - 18.00
+- The Distribution of Trip Duration somehow below 30 minutes only
+- Daily Revenue Patterns show fluctuations
+- Passenger Count per trip somehow mostly only 1 passenger per taxi
+- The Factors that influencing for the total fare amount are fare_amount and tip_amount
+- Pickup and Drop Off Zones are mnosly in LocationID no 74 and 75
+
+  
+
+# Conclusions and Recommendations
+- Increase the Resources at the peak hours
+- Develop Services for Short Duration Trips
+- Promotions on Low Demand Days to Increase Daily Revenue
+- Consider Ride-Sharing Services
+- Development of Demand Prediction System Based on Previous Data
+
+Thank You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
