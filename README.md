@@ -1,4 +1,4 @@
-![Screenshot_24](https://github.com/user-attachments/assets/60560928-6b70-477e-972e-366dc6408b73)# README
+# README
 This Capstone Project was conducted to analyze the dataset on TLC Trip Record which is a dataset containing 
 Trip Records from a taxi company called Taxi and Limousine Commissions (TLC) from January 1, 2023 to January 31, 2023.
 
